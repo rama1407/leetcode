@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rama1407/leetcode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/rama1407/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
