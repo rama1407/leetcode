@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rama1407/leetcode/tree/master/0007-reverse-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rama1407/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
