@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/rama1407/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rama1407/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rama1407/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rama1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/rama1407/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
 ## Sorting
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rama1407/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rama1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/rama1407/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
 ## Math
