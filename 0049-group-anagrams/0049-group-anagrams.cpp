@@ -5,8 +5,8 @@ public:
          for(string s:strs)
          {
             string key = s;
-            sort(key.begin(),key.end());
-            mp[key].push_back(s);
+            sort(key.begin(), key.end()); 
+            mp[key].push_back(s); 
          }
          vector<vector<string>> result;
          for(auto &p:mp)
