@@ -2,16 +2,14 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
-        map<char,int> a;
-        map<char,int> b;
-        for(char c: s)
+        int count[26]={0};
+        for(char c: s) count[c-'a']++;
+        for(char c: t) count[c-'a']--;
+        for(int i =0;i<26;i++)
         {
-            a[c]++;
+            if(count[i]!=0)
+            return false;
         }
-        for(char c: t)
-        {
-            b[c]++;
-        }
-       return a==b;
+        return true;
     }
 };
