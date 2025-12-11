@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rama1407/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rama1407/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/rama1407/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rama1407/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rama1407/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/rama1407/leetcode/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rama1407/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rama1407/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
 ## Database
 |  |
 | ------- |
