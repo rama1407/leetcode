@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/rama1407/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0007-reverse-integer](https://github.com/rama1407/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rama1407/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
