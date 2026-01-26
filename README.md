@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rama1407/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/rama1407/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rama1407/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/rama1407/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rama1407/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rama1407/leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
