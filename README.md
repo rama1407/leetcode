@@ -19,6 +19,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Counting
 |  |
 | ------- |
