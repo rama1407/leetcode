@@ -8,7 +8,6 @@ public:
         {
              altitude.emplace_back(altitude[i]+gain[i]);
         }
-        sort(altitude.begin(),altitude.end());
-        return altitude.back();
+        return *max_element(altitude.begin(),altitude.end());
     }
 };
