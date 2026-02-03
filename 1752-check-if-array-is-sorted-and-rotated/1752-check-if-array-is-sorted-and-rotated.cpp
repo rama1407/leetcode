@@ -9,12 +9,12 @@ private:
 public:
     bool check(vector<int>& nums) {
         int n = nums.size();
-        vector<int> original = nums;
+        //vector<int> original = nums;
         if (newarray(nums)) return true;
         for (int j = 1; j < n; j++) {
             vector<int> rotated(n);
             for (int i = 0; i < n; i++) {
-                rotated[i] = original[(i + j) % n];
+                rotated[i] = nums[(i + j) % n];
             }
             if (newarray(rotated))
                 return true;
