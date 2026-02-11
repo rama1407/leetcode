@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/rama1407/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/rama1407/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/rama1407/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
