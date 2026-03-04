@@ -1,24 +1,19 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        vector<int> a;
         int n = nums.size();
+        int count0 = 0;
+        int count2 =0;
+        int count1 =0;
         for(int i =0;i<n;i++){
-            if(nums[i]==0){
-                a.push_back(nums[i]);
-            }
+            if(nums[i]==0) count0++;
+            if(nums[i]==1) count1++;
+            if(nums[i]==2) count2++;
         }
-        for(int j =0;j<n;j++){
-            if(nums[j]==1){
-                a.push_back(nums[j]);
-            }
+        for(int i=0;i<count0;i++){
+            nums[i] = 0;
         }
-        for(int k =0;k<n;k++){
-            if(nums[k]==2){
-                a.push_back(nums[k]);
-            }
-        }
-        nums.erase(nums.begin(),nums.end());
-        nums = vector<int>(a.begin(), a.end());
+        for(int i = count0;i<count1+count0;i++) nums[i] = 1;
+        for(int i = count1+count0;i<n;i++) nums[i] = 2;
     }
 };
