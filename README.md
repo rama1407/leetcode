@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rama1407/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rama1407/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rama1407/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Counting
