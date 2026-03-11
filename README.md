@@ -35,6 +35,7 @@
 | [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rama1407/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
