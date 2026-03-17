@@ -37,6 +37,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rama1407/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rama1407/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rama1407/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +188,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rama1407/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
