@@ -8,11 +8,9 @@ public:
        for(int r = 0;r<n;r++){
            a[fruits[r]]++;
            if(a.size()>2){
-            while(a.size()>2){
-                a[fruits[l]]--;
-                if(a[fruits[l]]==0) a.erase(fruits[l]);
-                  l++;
-            }
+            a[fruits[l]]--;
+            if(a[fruits[l]]==0 ) a.erase(fruits[l]);
+            l++;
            }
            else
            maxlen =  max(maxlen,r-l+1);
