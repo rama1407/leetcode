@@ -5,15 +5,18 @@ public:
        int maxlen = 0;
        int l = 0;
        map<int,int> a;
-       for(int r = 0;r<n;r++){
+       int r = 0;
+       while(r<n){
            a[fruits[r]]++;
            if(a.size()>2){
             a[fruits[l]]--;
             if(a[fruits[l]]==0 ) a.erase(fruits[l]);
             l++;
            }
-           else
+           else if(a.size()<=2){
            maxlen =  max(maxlen,r-l+1);
+           }
+           r++;
        }
        return maxlen;
     }
