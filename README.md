@@ -51,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/rama1407/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rama1407/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/rama1407/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/rama1407/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rama1407/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rama1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/rama1407/leetcode/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/rama1407/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
 ## Math
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rama1407/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/rama1407/leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
