@@ -3,6 +3,7 @@ public:
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
         vector<string> ans;
         for(string s: words){
+            if(s.size() != pattern.size()) continue;
              unordered_map<char,char> m1;
              unordered_map<char,char> m2;
              bool found = true;
