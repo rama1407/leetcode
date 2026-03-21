@@ -10,8 +10,14 @@ public:
             for(int j = 0;j<pattern.size();j++){
                 char a = s[j];
                 char b = pattern[j];
-                if(m1.count(a)&&m1[a]!=b) found = false;
-                if(m2.count(b)&&m2[b]!=a) found = false;
+                if(m1.count(a)&&m1[a]!=b) {
+                    found = false;
+                    break;
+                }
+                if(m2.count(b)&&m2[b]!=a) {
+                    found = false;
+                    break;
+                }
                 m1[a]=b;
                 m2[b]=a;
             }
