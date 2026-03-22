@@ -1,8 +1,6 @@
 class Solution {
 public:
-    bool pal(string s){
-        int l = 0;
-        int r = s.size()-1;
+    bool pal(string s,int l,int r){
         while(l<r){
             if(s[l]!=s[r]) return false;
             l++;
@@ -15,11 +13,7 @@ public:
         int r = s.size()-1;
         while(l<r){
             if(s[l]!=s[r]){
-                string s1 = s;
-                string s2 = s;
-                s1.erase(l,1);
-                s2.erase(r,1);
-                return pal(s1)||pal(s2);
+                return pal(s,l+1,r)||pal(s,l,r-1);
             }
             l++;
             r--;
