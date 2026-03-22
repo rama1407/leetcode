@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool pal(string &s,int l,int r){
+    bool pal(const string &s,int l,int r){
         while(l<r){
             if(s[l]!=s[r]) return false;
             l++;
