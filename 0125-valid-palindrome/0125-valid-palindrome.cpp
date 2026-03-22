@@ -7,15 +7,17 @@ public:
             p+=tolower(c);
            }
         }
-        string t = p;
-        reverse(p.begin(),p.end());
-        bool found = true;;
-        for(int i = 0;i<p.size();i++){
-            if(p[i]!=t[i]){
-                found = false;
-                break;
+        int l = 0;
+        int r = p.size()-1;
+        bool found = true;
+        while(l<=r){
+            if(p[l]!=p[r]) {
+               found = false;
+               break;
             }
-        } 
+            l++;
+            r--;
+        }
         if(found) return true;
         return false;
     }
