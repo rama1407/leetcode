@@ -18,6 +18,6 @@ public:
                  if(ispal(s,i,j)) count++;
             }
         }
-        return count++;
+        return count;
     }
 };
