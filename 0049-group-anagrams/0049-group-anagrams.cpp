@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-         map<string, vector<string>> mp;
-         for(string s:strs)
-         {
+         int n = strs.size();
+         unordered_map<string,vector<string>> a;
+         for(auto s:strs){
             string key = s;
-            sort(key.begin(), key.end()); 
-            mp[key].push_back(s); 
+            sort(key.begin(),key.end());
+            a[key].push_back(s);
          }
-         vector<vector<string>> result;
-         for(auto &p:mp)
-         {
-            result.push_back(p.second);
+         vector<vector<string>> b;
+         for(auto it: a){
+            b.push_back(it.second);
          }
-         return result;
+         return b;
     }
 };
