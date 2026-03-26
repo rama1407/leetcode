@@ -15,7 +15,7 @@ public:
             a[key].push_back(s);
          }
          vector<vector<string>> b;
-         for(auto i:a){
+         for(auto &i:a){
             b.push_back(i.second);
          }
          return b;
