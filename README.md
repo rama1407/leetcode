@@ -31,6 +31,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/rama1407/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rama1407/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/rama1407/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -164,6 +166,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -209,6 +212,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rama1407/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rama1407/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,4 +242,20 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/rama1407/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
