@@ -1,28 +1,40 @@
 class Solution {
 public:
+    int firstoccurence(vector<int>& nums,int target,int n){
+        int low = 0;
+        int high = n-1;
+        int first = -1;
+        while(low<=high){
+            int mid = (low+high)/2;
+            if(nums[mid]==target){
+                first = mid;
+                high = mid -1;
+            }
+            else if(nums[mid]<target) low = mid+1;
+            else high = mid -1;
+        }
+        return first;
+    }
+    int lastoccurence(vector<int>& nums,int target,int n){
+        int low = 0;
+        int high = n-1;
+        int last = -1;
+        while(low<=high){
+            int mid = (low+high)/2;
+            if(nums[mid]==target){
+                last = mid;
+                low = mid+1;
+            }
+            else if(nums[mid]<target) low = mid+1;
+            else high = mid -1;
+        }
+        return last;
+    }
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
-        vector<int> ans;
-        int l = 0;
-        int r = n-1;
-        while(l<n){
-            if(nums[l]==target){
-                ans.push_back(l);
-                break;
-            }
-            l++;
-        }
-        while(r>=0){
-            if(nums[r]==target){
-                ans.push_back(r);
-                break;
-            }
-            r--;
-        }
-        if(ans.size()==0){
-           ans.push_back(-1);
-           ans.push_back(-1);
-        }
-        return ans;
+        int first = firstoccurence(nums,target,n);
+        if(first==-1) return {-1,-1};
+        int last = lastoccurence(nums,target,n);
+        return {first,last};
     }
 };
