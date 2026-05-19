@@ -7,13 +7,12 @@ public:
         int minval = 5000;
         while(low<=high){
             int mid = (low+high)/2;
-            minval = min(minval,nums[mid]);
             if(nums[low]<=nums[mid]){
                 minval = min(minval,nums[low]);
                 low = mid+1;
             }
             else {
-                minval = min(minval,nums[mid+1]);
+                minval = min(minval,nums[mid]);
                 high = mid-1;
             }
         }
