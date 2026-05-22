@@ -137,6 +137,7 @@
 | [0009-palindrome-number](https://github.com/rama1407/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rama1407/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -203,6 +204,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Stack
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/rama1407/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
