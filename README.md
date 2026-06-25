@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rama1407/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/rama1407/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/rama1407/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
@@ -260,6 +262,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama1407/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
