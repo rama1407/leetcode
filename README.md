@@ -49,6 +49,7 @@
 | [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rama1407/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -130,6 +131,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
