@@ -133,6 +133,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
@@ -220,6 +221,7 @@
 | [0155-min-stack](https://github.com/rama1407/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rama1407/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
