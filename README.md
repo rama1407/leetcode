@@ -135,6 +135,7 @@
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
@@ -222,6 +223,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rama1407/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
