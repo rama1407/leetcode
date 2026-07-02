@@ -265,6 +265,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/rama1407/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/rama1407/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/rama1407/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0933-number-of-recent-calls](https://github.com/rama1407/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Segment Tree
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rama1407/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rama1407/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama1407/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/rama1407/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -321,4 +323,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rama1407/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rama1407/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
