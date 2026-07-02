@@ -29,10 +29,12 @@ public:
              }
         }
         vector<int> ans;
+        unordered_map<int,int> mp;
+        for(int i = 0;i<y;i++){
+            mp[nums2[i]] = arr[i];
+        } 
         for(int i = 0;i<x;i++){
-             for(int j = 0;j<y;j++){
-                if(nums1[i]==nums2[j]) ans.push_back(arr[j]);
-             }
+            ans.push_back(mp[nums1[i]]);
         }
         return ans;
     }
