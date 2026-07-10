@@ -155,6 +155,7 @@
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/rama1407/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -171,6 +172,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rama1407/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rama1407/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
+| [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/rama1407/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
@@ -344,4 +347,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rama1407/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama1407/leetcode/tree/master/0503-next-greater-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
