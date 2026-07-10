@@ -43,6 +43,7 @@
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/rama1407/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rama1407/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/rama1407/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -75,6 +76,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rama1407/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -184,6 +186,7 @@
 | [0303-range-sum-query-immutable](https://github.com/rama1407/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/rama1407/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rama1407/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rama1407/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rama1407/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -269,6 +272,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rama1407/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rama1407/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rama1407/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rama1407/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Design
