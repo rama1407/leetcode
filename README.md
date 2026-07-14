@@ -145,6 +145,7 @@
 | [0409-longest-palindrome](https://github.com/rama1407/leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/rama1407/leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
@@ -180,6 +181,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rama1407/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rama1407/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
@@ -244,6 +246,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/rama1407/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rama1407/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama1407/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
@@ -313,6 +316,7 @@
 | [0055-jump-game](https://github.com/rama1407/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/rama1407/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rama1407/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/rama1407/leetcode/tree/master/0860-lemonade-change) |
 ## Heap (Priority Queue)
