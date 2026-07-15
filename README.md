@@ -167,6 +167,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/rama1407/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rama1407/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rama1407/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
 |  |
@@ -371,4 +372,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rama1407/leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rama1407/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
