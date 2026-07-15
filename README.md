@@ -156,6 +156,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rama1407/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rama1407/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rama1407/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
@@ -348,11 +349,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rama1407/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rama1407/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rama1407/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Data Stream
