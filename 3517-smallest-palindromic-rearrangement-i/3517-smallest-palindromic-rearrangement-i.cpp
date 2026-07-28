@@ -2,9 +2,9 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n = s.size();
-        unordered_map<int,int> mp;
-        for(int i = 0;i<n;i++){
-           mp[s[i]-'a']++;
+        vector<int> mp(26);
+        for(char c: s){
+            mp[c-'a']++;
         }
         string  left;
         string middle;
