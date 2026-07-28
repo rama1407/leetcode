@@ -11,8 +11,7 @@ public:
         for(int i = 0;i<26;i++){
             left += string(mp[i]/2,'a'+i);
             if(mp[i]%2!=0){
-                int count = mp[i] - ((mp[i]/2)*2);
-                middle += string(count,'a'+i);
+                middle += string(1,'a'+i);
             }
         }
         string right = left;
