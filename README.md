@@ -162,6 +162,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rama1407/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -181,6 +182,7 @@
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rama1407/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rama1407/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rama1407/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rama1407/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Database
@@ -337,6 +339,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/rama1407/leetcode/tree/master/0860-lemonade-change) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
