@@ -2,22 +2,14 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int estimated_element;
-        int count;
-        for(int i =0;i<n;i++){
-            if(count == 0){
-                estimated_element = nums[i];
-                count = 1;
-            }
-            else if(nums[i]==estimated_element) count++;
-            else count--;
+        unordered_map<int,int> mp;
+        for(int i = 0;i<n;i++){
+            mp[nums[i]]++;
         }
-        int count1 = 0;
-        for(int i =0;i<n;i++){
-            if(nums[i]==estimated_element) count1++;
+        int val;
+        for(auto it:mp){
+            if(it.second>n/2) val = it.first;
         }
-        if(count1>(n/2))
-         {return estimated_element;}
-        return 0;
+        return val;
     }
 };
