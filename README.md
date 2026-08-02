@@ -44,6 +44,7 @@
 | [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rama1407/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/rama1407/leetcode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/rama1407/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rama1407/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -199,6 +201,7 @@
 | [0152-maximum-product-subarray](https://github.com/rama1407/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
@@ -390,6 +393,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
