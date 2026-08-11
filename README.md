@@ -66,6 +66,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rama1407/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rama1407/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/rama1407/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rama1407/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rama1407/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -141,6 +143,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/rama1407/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rama1407/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rama1407/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rama1407/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rama1407/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/rama1407/leetcode/tree/master/3731-find-missing-elements) |
 ## String
