@@ -2,7 +2,6 @@ class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         int n = nums.size();
-        if(n==1) return 1;
         int maxlength = 0;
         int l = 0;
         int r = 0;
