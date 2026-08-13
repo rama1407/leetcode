@@ -87,6 +87,7 @@
 | [0290-word-pattern](https://github.com/rama1407/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rama1407/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama1407/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rama1407/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rama1407/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/rama1407/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@
 | [0229-majority-element-ii](https://github.com/rama1407/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rama1407/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rama1407/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rama1407/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rama1407/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rama1407/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/rama1407/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rama1407/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rama1407/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rama1407/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rama1407/leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/rama1407/leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
@@ -280,6 +283,7 @@
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rama1407/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/rama1407/leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
