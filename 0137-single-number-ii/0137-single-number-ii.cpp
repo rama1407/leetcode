@@ -1,14 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
-        for(int i = 0;i<32;i++){
-            int count = 0;
-            for(int num:nums){
-                if(num & 1<<i) count++;
-            }
-            if(count%3!=0) ans = ans|(1<<i);
+        sort(nums.begin(),nums.end());
+        for(int i = 1;i<nums.size();i+=3){
+            if(nums[i]!=nums[i-1]) return nums[i-1];
         }
-        return ans;
+        return nums[nums.size()-1];
     }
 };
