@@ -31,6 +31,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rama1407/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rama1407/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rama1407/leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/rama1407/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rama1407/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rama1407/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -285,6 +286,7 @@
 | [0190-reverse-bits](https://github.com/rama1407/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rama1407/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/rama1407/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rama1407/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
