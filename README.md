@@ -195,6 +195,7 @@
 | [0009-palindrome-number](https://github.com/rama1407/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rama1407/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rama1407/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/rama1407/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rama1407/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rama1407/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
@@ -428,6 +429,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rama1407/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/rama1407/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
 ## Linked List
