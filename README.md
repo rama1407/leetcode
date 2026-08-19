@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rama1407/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rama1407/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rama1407/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rama1407/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rama1407/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rama1407/leetcode/tree/master/0055-jump-game) |
@@ -81,6 +82,7 @@
 | [0001-two-sum](https://github.com/rama1407/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rama1407/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rama1407/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rama1407/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rama1407/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rama1407/leetcode/tree/master/0205-isomorphic-strings) |
@@ -469,4 +471,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rama1407/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
