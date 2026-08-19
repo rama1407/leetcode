@@ -1,10 +1,11 @@
 class Solution {
 public:
+    void f(int i,int j, vector<char>& s){
+        if(i>=j) return;
+        swap(s[i],s[j]);
+        f(i+1,j-1,s);
+    }
     void reverseString(vector<char>& s) {
-        int n = s.size();
-        for(int i=0;i<n/2;i++)
-        {
-            swap(s[i],s[n-i-1]);
-        }
+        f(0,s.size()-1,s);
     }
 };
