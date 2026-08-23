@@ -188,6 +188,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rama1407/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
+| [1927-sum-game](https://github.com/rama1407/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rama1407/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -212,6 +213,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/rama1407/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rama1407/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/rama1407/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rama1407/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rama1407/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -405,6 +407,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/rama1407/leetcode/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/rama1407/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
@@ -459,6 +462,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/rama1407/leetcode/tree/master/1927-sum-game) |
 ## Enumeration
 |  |
 | ------- |
