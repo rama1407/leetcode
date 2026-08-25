@@ -210,6 +210,7 @@
 | [0268-missing-number](https://github.com/rama1407/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rama1407/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/rama1407/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rama1407/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rama1407/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -306,6 +307,7 @@
 | [0338-counting-bits](https://github.com/rama1407/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rama1407/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/rama1407/leetcode/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/rama1407/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/rama1407/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rama1407/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
@@ -444,6 +446,7 @@
 | [0050-powx-n](https://github.com/rama1407/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rama1407/leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/rama1407/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
 | ------- |
