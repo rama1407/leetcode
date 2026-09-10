@@ -339,6 +339,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rama1407/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rama1407/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rama1407/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rama1407/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/rama1407/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rama1407/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -503,4 +506,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
