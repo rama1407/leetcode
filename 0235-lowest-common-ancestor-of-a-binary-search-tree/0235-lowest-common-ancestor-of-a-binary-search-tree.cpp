@@ -13,12 +13,8 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         while(true){
             if(root!=NULL){
-                if(root->left==p && root->right==q){
-                   return root;
-                }
-                else if(root->left==q && root->right==p) return root;
-                else if(root->val == p->val) return root;
-                if(root->val == q->val) return root;
+                if(root->val == p->val) return root;
+                else if(root->val == q->val) return root;
                 else {
                     if(p->val < root->val && q->val<root->val) root= root->left;
                     else if(p->val > root->val && q->val > root->val) root = root->right;
