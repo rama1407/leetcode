@@ -2,15 +2,17 @@ class Solution {
 public:
     long long pickGifts(vector<int>& gifts, int k) {
         long long ans = 0;
+        priority_queue<int> pq;
+        for(auto it:gifts) pq.push(it);
         while(k>0){
-            sort(gifts.begin(),gifts.end());
-            int x = gifts[gifts.size()-1];
-            int val = floor(sqrt(x));
-            gifts[gifts.size()-1] = val;
+            int val = pq.top();
+            pq.pop();
+            pq.push(floor(sqrt(val)));
             k--;
         }
-        for(auto it : gifts){
-            ans+=it;
+        while(!pq.empty()){
+            ans = ans + pq.top();
+            pq.pop();
         }
         return ans;
     }
