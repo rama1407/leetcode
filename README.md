@@ -70,6 +70,7 @@
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rama1407/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rama1407/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/rama1407/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/rama1407/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rama1407/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rama1407/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rama1407/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/rama1407/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rama1407/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rama1407/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -463,6 +465,7 @@
 | [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/rama1407/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rama1407/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/rama1407/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
