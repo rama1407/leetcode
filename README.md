@@ -420,6 +420,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rama1407/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/rama1407/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rama1407/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rama1407/leetcode/tree/master/0190-reverse-bits) |
@@ -484,6 +485,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rama1407/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rama1407/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rama1407/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -497,6 +499,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/rama1407/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -530,6 +533,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rama1407/leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rama1407/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rama1407/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Data Stream
@@ -611,4 +615,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rama1407/leetcode/tree/master/0692-top-k-frequent-words) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
