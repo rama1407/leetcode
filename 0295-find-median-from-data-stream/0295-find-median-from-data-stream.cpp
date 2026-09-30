@@ -11,10 +11,6 @@ public:
             maxh.push(num);
             return;
         }
-        else if(!maxh.empty() && minh.empty()){
-            if(num <= maxh.top()) maxh.push(num);
-            else minh.push(num);
-        }
         else if(num <= maxh.top()) maxh.push(num);
         else  minh.push(num);
         if(minh.size()>maxh.size()+1){
