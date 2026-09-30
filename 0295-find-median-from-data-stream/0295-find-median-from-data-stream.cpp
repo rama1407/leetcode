@@ -7,10 +7,9 @@ public:
     }
     
     void addNum(int num) {
-        if(maxh.empty() && minh.empty()) maxh.push(num);
-        else if(maxh.empty() && !minh.empty()){
-            if(num >= minh.top()) minh.push(num);
-            else maxh.push(num);
+        if(maxh.empty()) {
+            maxh.push(num);
+            return;
         }
         else if(!maxh.empty() && minh.empty()){
             if(num <= maxh.top()) maxh.push(num);
