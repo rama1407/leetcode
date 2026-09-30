@@ -28,7 +28,6 @@ public:
         if(minh.size()==maxh.size()) return (minh.top()+maxh.top())/2.0;
        else if(minh.size()>maxh.size()) return minh.top();
        else return maxh.top();
-        return 0;
     }
 };
 
