@@ -393,6 +393,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rama1407/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -581,6 +582,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rama1407/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -629,4 +631,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rama1407/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
