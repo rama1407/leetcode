@@ -202,6 +202,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rama1407/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0890-find-and-replace-pattern](https://github.com/rama1407/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rama1407/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-reverse-only-letters](https://github.com/rama1407/leetcode/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rama1407/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -349,6 +350,7 @@
 | [0496-next-greater-element-i](https://github.com/rama1407/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama1407/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rama1407/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rama1407/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rama1407/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/rama1407/leetcode/tree/master/1544-make-the-string-great) |
@@ -485,6 +487,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rama1407/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/rama1407/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rama1407/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/rama1407/leetcode/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/rama1407/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rama1407/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -621,6 +624,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rama1407/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rama1407/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rama1407/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rama1407/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
