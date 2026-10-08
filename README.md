@@ -61,6 +61,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/rama1407/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rama1407/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rama1407/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/rama1407/leetcode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/rama1407/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -588,6 +589,7 @@
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -595,6 +597,7 @@
 | [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
