@@ -45,6 +45,7 @@
 | [0496-next-greater-element-i](https://github.com/rama1407/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rama1407/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rama1407/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rama1407/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rama1407/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rama1407/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -264,6 +265,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rama1407/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rama1407/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/rama1407/leetcode/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/rama1407/leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/rama1407/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/rama1407/leetcode/tree/master/0877-stone-game) |
@@ -590,6 +592,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rama1407/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -598,6 +601,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
