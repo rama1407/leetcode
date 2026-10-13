@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rama1407/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rama1407/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/rama1407/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/rama1407/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rama1407/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rama1407/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
@@ -403,6 +404,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rama1407/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rama1407/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rama1407/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rama1407/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/rama1407/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -598,6 +600,7 @@
 | [0226-invert-binary-tree](https://github.com/rama1407/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rama1407/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rama1407/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/rama1407/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
@@ -608,6 +611,7 @@
 | [0036-valid-sudoku](https://github.com/rama1407/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rama1407/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rama1407/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rama1407/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rama1407/leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
@@ -660,6 +664,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/rama1407/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rama1407/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rama1407/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rama1407/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
